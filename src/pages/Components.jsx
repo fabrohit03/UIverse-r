@@ -83,6 +83,7 @@ function Components() {
                 <Button text="Primary" variant="primary" />
                 <Button text="Secondary" variant="secondary" />
                 <Button text="Danger" variant="danger" />
+                <Button text="Disabled" variant="disabled" />
               </div>
             </div>
 
@@ -110,6 +111,7 @@ function Components() {
               <pre>{`<Button text="Primary"   variant="primary" />
 <Button text="Secondary" variant="secondary" />
 <Button text="Danger"    variant="danger" />
+<Button text="Disabled"  variant="disabled" />
 
 {/* Sizes */}
 <Button text="Small"  variant="primary" size="sm" />
