@@ -75,3 +75,21 @@
   box-shadow: 0 6px 18px rgba(220,38,38,0.3);
   transform: translateY(-2px);
 }
+
+
+/* ── Disabled Variant ── */
+.uiverse-btn--disabled {
+  background-color: #9ca3af;
+  color: #ffffff;
+  border-color: #9ca3af;
+  opacity: 0.7;
+  cursor: not-allowed;
+  pointer-events: auto;
+  box-shadow: none;
+}
+
+.uiverse-btn--disabled:hover,
+.uiverse-btn--disabled:active {
+  transform: none;
+  box-shadow: none;
+}

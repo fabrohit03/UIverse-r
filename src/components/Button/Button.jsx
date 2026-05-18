@@ -2,7 +2,7 @@
 //
 // Props:
 //   text     (string)  – Label displayed inside the button
-//   variant  (string)  – "primary" | "secondary" | "danger"
+//   variant  (string)  – "primary" | "secondary" | "danger" | "disabled"
 //   size     (string)  – "sm" | "md" (default) | "lg"
 //   onClick  (func)    – Optional click handler
 //
