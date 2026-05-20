@@ -105,7 +105,7 @@ function Components() {
           <p className="sidebar-label">CONTRIBUTE</p>
 
           <a
-            href="https://github.com"
+            href="https://github.com/ayushkashyap402/UIverse"
             target="_blank"
             rel="noreferrer"
             className="sidebar-item sidebar-item--link"
