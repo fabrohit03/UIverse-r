@@ -99,7 +99,7 @@
 }
 
 .comp-header p {
-  color: var(--muted);
+  color: var(--text-2);
   font-size: 1.05rem;
 }
 
@@ -130,7 +130,7 @@
 
 .comp-section-desc {
   font-size: 0.95rem;
-  color: var(--muted);
+  color: var(--text-2);
   margin-bottom: 28px;
   line-height: 1.65;
 }
@@ -280,6 +280,11 @@
 }
 
 .comp-table tr:last-child td { border-bottom: none; }
+
+.comp-table strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
 .category-tag {
   background: var(--surface-2);
